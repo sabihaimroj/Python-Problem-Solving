@@ -6,3 +6,5 @@ if calendar.isleap(year):
     print("YES")
 else:
     print("NO")
+
+
